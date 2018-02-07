@@ -19,7 +19,7 @@
   "dependencies": {
     "@adonisjs/ace": "^4.0.8",
     "@adonisjs/ally": "github:duyluonglc/adonis-ally#develop",
-    "@adonisjs/auth": "^3.0.0",
+    "@adonisjs/auth": "3.0.0",
     "@adonisjs/bodyparser": "^2.0.1",
     "@adonisjs/cors": "^1.0.3",
     "@adonisjs/fold": "^4.0.5",
